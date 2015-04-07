@@ -684,8 +684,6 @@ geek_code/geek_code-v312.GeekCodeError.GeekCodeError- constructor
 geek_code/geek_code-v312.GeekCodeGrade class
 geek_code/geek_code-v312.GeekCodeGrade.GeekCodeGrade- constructor
 geek_code/geek_code-v312.GeekCodeGrade.grade property
-geek_code/geek_code-v312.GeekCodeGrade.maxGrade property
-geek_code/geek_code-v312.GeekCodeGrade.minGrade property
 geek_code/geek_code-v312.GeekCodeGrade.toString method
 geek_code/geek_code-v312.GeekCodeType class
 geek_code/geek_code-v312.GeekCodeType.GeekCodeType- constructor
@@ -833,8 +831,6 @@ geek_code/geek_code.GeekCodeError.GeekCodeError- constructor
 geek_code/geek_code.GeekCodeGrade class
 geek_code/geek_code.GeekCodeGrade.GeekCodeGrade- constructor
 geek_code/geek_code.GeekCodeGrade.grade property
-geek_code/geek_code.GeekCodeGrade.maxGrade property
-geek_code/geek_code.GeekCodeGrade.minGrade property
 geek_code/geek_code.GeekCodeGrade.toString method
 geek_code/geek_code.GeekCodeType class
 geek_code/geek_code.GeekCodeType.GeekCodeType- constructor
