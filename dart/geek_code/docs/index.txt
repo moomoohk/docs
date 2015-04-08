@@ -654,8 +654,8 @@ geek_code/geek_code-v312.G312.P property
 geek_code/geek_code-v312.G312.PA property
 geek_code/geek_code-v312.G312.S property
 geek_code/geek_code-v312.G312.SS property
+geek_code/geek_code-v312.G312.TW property
 geek_code/geek_code-v312.G312.U property
-geek_code/geek_code-v312.G312.W property
 geek_code/geek_code-v312.GCode property
 geek_code/geek_code-v312.GeekCode class
 geek_code/geek_code-v312.GeekCode.GeekCode- constructor
